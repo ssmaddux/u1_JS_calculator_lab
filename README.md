@@ -36,7 +36,7 @@ User stories are a great way to break down what the different features of the we
 
 Create a directory in your student lab folder called `calculator`.
 
-Within `calculator` setup an `index.html` `app.js` and `style.css` and get jQuery wired up.
+Within `calculator` setup an `index.html` `app.js` and `style.css` and get your code wired up.
 
 
 
