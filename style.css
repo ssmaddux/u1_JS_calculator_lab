@@ -1,0 +1,71 @@
+#calcspace {
+    width: 500px;
+    height: 800px;
+    background-color: rgb(41, 38, 38);
+    border: solid 1px rgb(177, 135, 135);
+    border-radius: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    position: relative;
+    /* justify-content: space-around; */
+}
+
+.buttondiv {
+    background-color: gray;
+    height: 117px;
+    width: 117px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1px;
+    margin: 2px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    
+}
+
+.buttondiv:hover {
+    background-color: rgb(209, 201, 193);
+}
+
+body {
+    width: 600px;
+    height: 900px;
+    /* align-items: center; */
+}
+
+#resetbttn {
+    background-color: gray;
+    position: absolute;
+    left: 0px;
+    height: 125px;
+    width: 125px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    border-radius: 10%;
+
+
+}
+
+
+#display {
+    background-color: rgb(10, 10, 10);
+    height: 125px;
+    width: 250px;
+    position: absolute;
+    right: 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 500%;
+
+    
+    
+    
+    
+
+}
